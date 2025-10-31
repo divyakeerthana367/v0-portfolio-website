@@ -5,7 +5,7 @@ export default function Achievements() {
     {
       icon: "🏆",
       title: "CBSE-IBM Problem Solvers Tournament",
-      description: "Winner - Identified and developed sustainable solution concept, selected for IBM 2-week internship",
+      description: "Identified and developed sustainable solution concept, selected for IBM 2-week internship",
       year: "2023",
     },
     {
